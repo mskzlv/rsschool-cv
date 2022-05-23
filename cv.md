@@ -1,13 +1,14 @@
 ### Full name
 
-##### Mikhail Kazlou
+#### Mikhail Kazlou
 
 ---
 
 ### My contact info
 
- [Telegram](https://t.me/Mskzlv "contact me via telegram")
- [Linkedin](https://www.linkedin.com/in/mikhail-kazlou-85203a178/ "contact me via linkedin")
+ [Telegram](https://t.me/Mskzlv "contact me via Telegram")
+ 
+ [Linkedin](https://www.linkedin.com/in/mikhail-kazlou-85203a178/ "contact me via Linkedin")
 
 ---
 
